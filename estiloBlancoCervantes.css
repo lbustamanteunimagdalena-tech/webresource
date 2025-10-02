@@ -1,0 +1,46 @@
+h1 {
+    color: darkblue;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h2 {
+    color: blue;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+[href] {
+    color: lightblue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+video {
+    width: 250px;
+    border-width: 5px;
+    border-color: lightskyblue;
+    border-style:solid ;
+}
+
+img {
+    width: 500px;
+    border-width: 10px;
+    border-color: lightskyblue;
+    border-style: groove ;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
