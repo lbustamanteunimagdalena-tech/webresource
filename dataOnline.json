@@ -1,14 +1,32 @@
 [
-  {"id":1, "title":"Proyecto Robótica", "desc":"Robot seguidor de línea con sensor infrarrojo"},
-  {"id":2, "title":"App Educativa", "desc":"Juego web para aprender algoritmos básicos"},
-  {"id":3, "title":"Sensor IoT", "desc":"Monitoreo de temperatura y envío a la nube"},
-  {"id":4, "title":"Portal de Recursos", "desc":"Sitio con materiales didácticos para docentes"},
-  {"id":5, "title":"Simulador Física", "desc":"Simulador interactivo de movimientos rectilíneos"},
-  {"id":6, "title":"Visualizador 3D", "desc":"Galería de modelos 3D para proyectos STEAM"},
-  {"id":7, "title":"Proyecto Robótica", "desc":"Robot seguidor de línea con sensor infrarrojo"},
-  {"id":8, "title":"App Educativa", "desc":"Juego web para aprender algoritmos básicos"},
-  {"id":9, "title":"Sensor IoT", "desc":"Monitoreo de temperatura y envío a la nube"},
-  {"id":10, "title":"Portal de Recursos", "desc":"Sitio con materiales didácticos para docentes"},
-  {"id":11, "title":"Simulador Física", "desc":"Simulador interactivo de movimientos rectilíneos"},
-  {"id":12, "title":"Visualizador 3D", "desc":"Galería de modelos 3D para proyectos STEAM"}
-]
+  {
+    "id":1, 
+    "title":"Proyecto Robótica", 
+    "desc":"Robot seguidor de línea con sensor infrarrojo"
+  },
+  {
+    "id":2, 
+    "title":"App Educativa", 
+    "desc":"Juego web para aprender algoritmos básicos"
+  },
+  {
+    "id":3, 
+    "title":"Sensor IoT", 
+    "desc":"Monitoreo de temperatura y envío a la nube"
+  },
+  {
+    "id":4, 
+    "title":"Portal de Recursos", 
+    "desc":"Sitio con materiales didácticos para docentes"
+  },
+  {
+    "id":5, 
+    "title":"Simulador Física", 
+    "desc":"Simulador interactivo de movimientos rectilíneos"
+  },
+  {
+    "id":6, 
+    "title":"Visualizador 3D", 
+    "desc":"Galería de modelos 3D para proyectos STEAM"
+  }
+  
