@@ -1,0 +1,22 @@
+[
+    {
+        "ied": "Universidad del Magdalena",
+        "equipo": "Maker Tech (Cervantes-Blanco)",
+        "docente": "Lucia Yesenia Bustamante Meza",
+        "integrantes": ["Juan Diego Cervantes Consuegra","Janer Yamith Blanco Rios"]
+    },
+
+    {
+        "ied": "Universidad del Magdalena",
+        "equipo": "GRUPO TECNO (Saenz-Miranda)",
+        "docente": "Lucia Yesenia Bustamante Meza",
+        "integrantes": ["Dany Esteban Saenz Riveros","Juan David Miranda Romo"]
+    },
+
+    {
+        "ied": "Universidad del Magdalena",
+        "equipo": "Nexus (Agamez-Retamozo)",
+        "docente": "Lucia Yesenia Bustamante Meza",
+        "integrantes": ["Shelsy Lineth Agámez Rodríguez","Luis Alberto Retamozo Rodríguez"]
+    }
+]

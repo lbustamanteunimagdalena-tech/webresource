@@ -1,0 +1,22 @@
+[
+    {
+        "ied": "Institución Educativa Agropecuaria Veracruz",
+        "equipo": "POULTRONIC",
+        "docente": "Luis Eduardo Chamorro Fernández",
+        "integrantes": ["Lina Maria Criollo Erazo","Jonier Nicolas Yela Zambrano"]
+    },
+
+    {
+        "ied": "Institución Educativa Técnica Libardo Ramiro Muñoz",
+        "equipo": "Los Tecnológicos Ancestrales",
+        "docente": "Claudia Vivian Zambrano Pantoja",
+        "integrantes": ["Marlon Sebastián Naranjo Velásquez","Juan José Cuaspud Enrriquez"]
+    },
+
+    {
+        "ied": "Institución Educativa Nuestra Señora de Fátima",
+        "equipo": "Semilleros de Hoy",
+        "docente": "Angela Lizeth Mora Rodriguez",
+        "integrantes": ["Deively Adriana Crespo Piña","Julian Paz Insuasty"]
+    }
+]
