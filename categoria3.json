@@ -1,0 +1,39 @@
+[
+    {
+        "ied": "nombre",
+        "equipo": "equipo",
+        "docente": "nombre docente",
+        "integrantes": ["estudiante1", "estudiante2","estudiante3","estudiante4"]
+    },
+
+   {
+        "ied": "Institución Educativa Departamental Alfonso López",
+        "equipo": "Los duros/mejores del IDEAL (Morales, Rangel, Santiago y Paba)",
+        "docente": "Luis Guillermo Guillen Ortiz",
+        "integrantes": ["Daniel Guillermo Morales Polo", "Zaireth Rangel Carrascal","Ricardo José Santiago Morales","Alejandro Paba Márquez"]
+    },
+    {
+        "ied": "Institución Educativa Distrital Aluna",
+        "equipo": "Tecnoalunistas/Innova Aluna (Quintero-Moncada)",
+        "docente": "Liliana  Patricia Ayala Coronado",
+        "integrantes": ["Mariana Quintero Cudris", "Martha Yulieth Moncada Cabrera"]
+    },
+    {
+        "ied": "Colegio Franciscano de San Luis Beltrán",
+        "equipo": "Conexión (Causado, Díaz, Mejía, Rada)",
+        "docente": "Antonio Daniel Morales Acosta",
+        "integrantes": ["Julián Alejandro Causado Fonseca", "Sebastián Urueta Diaz Granados","Valeria Mejía Cervantes","Antonio José Rada Blanco"]
+    },
+     {
+        "ied": "Instituto Mixto Corazón de María",
+        "equipo": "INNOVA ICM (Gallardo, Navarro, Martínez)",
+        "docente": "Nelson Eduardo Meriño González",
+        "integrantes": ["Jesús Manuel Gallardo Rubio", "Cristian Camilo Navarro Adame","Harlin David Martínez Teheran"]
+    },
+    {
+        "ied": "Instituto Nueva Enseñanza",
+        "equipo": "Visión al futuro (Mendoza, Blanco, Blanco)",
+        "docente": "Jhoan Sebastian Torres Polo",
+        "integrantes": ["Nathaly Victoria Mendoza Charris", "Isabella María Blanco Linero","Víctor Manuel Blanco Linero"]
+    }
+]
