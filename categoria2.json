@@ -1,0 +1,43 @@
+[
+    {
+        "ied": "Institución Educativa Tecnico Distrital Lorencita Villegas De Santos",
+        "equipo": "TechZone",
+        "docente": "Lilia Amparo Quintero Ospino",
+        "integrantes": ["Javier Oswaldo Figueroa Diaz","Alessandro Montenegro Acosta","George Villarreal Villanueva","Ariadna Sofia Hernández Bandera"]
+    },
+
+    {
+        "ied": "Colegio Americano del Caribe",
+        "equipo": "Mentes Brillantes",
+        "docente": "Jesús Valverde",
+        "integrantes": ["Juan Pablo Quintero Correa","Luciano Tadeo Linares Bustamante","Antonella Valencia Cantillo","Gabriela Ruíz Tovar"]
+    },
+
+    {
+        "ied": "Instituto Mixto Corazón De María",
+        "equipo": "Mini Jardín Inteligente",
+        "docente": "Nelson Eduardo Meriño González",
+        "integrantes": ["Isabella Ariza Cruz","Sebastián David Álvarez Bayona","Nicolas Navarro Adame"]
+    },
+
+    {
+        "ied": "Instituto Mixto Corazón De María",
+        "equipo": "Alarma de Seguridad",
+        "docente": "Nelson Eduardo Meriño González",
+        "integrantes": ["Benjamín Barranco Suarez","Sarah Victoria Padilla Olivero","Luis Alejandro Serrano Rueda"]
+    },
+
+    {
+        "ied": "Institución Educativa Distrital Aluna",
+        "equipo": "Fusión Innovadoras Alunistas",
+        "docente": "Cindy Jajaira Noguera Carrascal",
+        "integrantes": ["Sara Sofia Barrios Racedo","Jorgelys Valentina Graterol Ramos"]
+    },
+
+    {
+        "ied": "Centro Pedagógico Mariel",
+        "equipo": "Animatronicos",
+        "docente": "Clara Melissa De La Hoz Salcedo",
+        "integrantes": ["Elizabeth Martinez Perez"]
+    }
+]

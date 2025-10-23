@@ -1,0 +1,22 @@
+[
+    {
+        "ied": "Universidad del Magdalena",
+        "equipo": "Disrupción maker (Reales-Vergara)",
+        "docente": "Ronny Ovidio Martínez Reyes",
+        "integrantes": ["Sandy Paola Reales Novoa","Pedro Angel Vergara Aroca"]
+    },
+
+    {
+        "ied": "Universidad del Magdalena",
+        "equipo": "DEMOTECH (Martinez Escorcia)",
+        "docente": "Lucia Bustamante",
+        "integrantes": ["Wilton Antonio Martinez Escorcia"]
+    },
+
+    {
+        "ied": "Universidad del Magdalena",
+        "equipo": "Quimi-inos (Ovalle-Laguna)",
+        "docente": "Ninfa de la Hoz",
+        "integrantes": ["John Andres Ovalle Tarifa","Marena Paola Laguna Nuñez"]
+    }
+]
