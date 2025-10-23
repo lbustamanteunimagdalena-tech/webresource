@@ -1,0 +1,36 @@
+[
+    {
+        "ied": "Colegio Franciscano San Luis Beltran",
+        "equipo":"Vyse",
+         "docente":"Antonio Morales Acosta", 
+       "integrantes":["Valentina López Jaimes", "Samuel González Trujillo"]
+    }
+
+    {
+        "ied": "Instituto Mixto Corazón De María",
+        "equipo":"Innova Icm Acevedo-Figueroa",
+         "docente":"Nelson Eduardo Meriño González", 
+       "integrantes":["Acevedo Rueda Andreina Michell", "Figueroa Ortiz Juan Andres"]
+    }
+
+    {
+        "ied": "Liceo Versalles ",
+        "equipo":"L V MAKERS",
+         "docente":"Miguel Angel Fadul Peña", 
+       "integrantes":["Juan Diego Sánchez Lacera", "Oscar Manuel Mosqueda Payares "]
+    }
+
+    {
+        "ied": "Instituto Mixto Corazón De María",
+        "equipo":"Innova Icm Gallardo-Martinez",
+         "docente":"Nelson Eduardo Meriño González", 
+       "integrantes":["Gallardo Rubio Jesus Manuel", "Martinez Teheran Harlin David"]
+    }
+
+     {
+        "ied": "Colegio Franciscano San Luis Beltran",
+        "equipo":"Los Capytronicos",
+         "docente":"Antonio Morales Acosta", 
+       "integrantes":["Andrés Felipe Rodríguez Quintero", "Andrés Camilo De Los Ríos Jimenez"]
+    }
+]
